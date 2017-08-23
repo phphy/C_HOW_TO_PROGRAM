@@ -1,43 +1,33 @@
-/*
- * main.h
+/* 
+ * File:   main.h
+ * Author: gwguokeqiang
  *
- *  Created on: 2014ƒÍ8‘¬13»’
- *      Author: open
+ * Created on 2014Âπ¥12Êúà3Êó•, ‰∏ãÂçà1:29
  */
-
-#ifndef FIG11_02_H_
-#define FIG11_02_H_
-
-void fig11_02();
-
-#endif /* FIG11_02_H_ */
-
-#ifndef FIG11_06_H_
-#define FIG11_06_H_
-
-void fig11_06();
-
-#endif /* FIG11_06_H_ */
-
-#ifndef FIG11_07_H_
-#define FIG11_07_H_
-
-void fig11_07();
-
-#endif /* FIG11_07_H_ */
-
-
 #ifndef FIG11_10_H_
 #define FIG11_10_H_
 
 void fig11_10();
 
-#endif /* FIG11_10_H_ */
-
+#endif /* define FIG11_10_H_ */
 
 #ifndef FIG11_11_H_
 #define FIG11_11_H_
 
 void fig11_11();
 
-#endif /* FIG11_11_H_ */
+#endif /* define FIG11_11_H_ */
+
+#ifndef FIG11_14_H_
+#define FIG11_14_H_
+
+void fig11_14();
+
+#endif /* define  FIG11_14_H_ */
+
+#ifndef FIG11_15_H_
+#define FIG11_15_H_
+
+void fig11_15();
+
+#endif /* define FIG11_15_H_ */

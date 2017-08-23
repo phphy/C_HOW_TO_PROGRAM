@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="Chapter10">
+        <in>Makefile</in>
+        <in>fig10_02.c</in>
+        <in>fig10_03.c</in>
+        <in>fig10_05.c</in>
+        <in>fig10_07.c</in>
+        <in>fig10_09.c</in>
+        <in>fig10_13.c</in>
+        <in>fig10_16.c</in>
+        <in>fig10_18.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter11">
+        <in>fig11_02.c</in>
+        <in>fig11_06.c</in>
+        <in>fig11_07.c</in>
+        <in>fig11_10.c</in>
+        <in>fig11_11.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter2">
+        <in>fig02_05.c</in>
+        <in>fig02_13.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter3">
+        <in>fig03_06.c</in>
+        <in>fig03_08.c</in>
+        <in>fig03_10.c</in>
+        <in>fig03_13.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter4">
+        <in>fig04_01.c</in>
+        <in>fig04_02.c</in>
+        <in>fig04_06.c</in>
+        <in>fig04_07.c</in>
+        <in>fig04_09.c</in>
+        <in>fig04_11.c</in>
+        <in>fig04_12.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter5">
+        <in>fig05_03.c</in>
+        <in>fig05_04.c</in>
+        <in>fig05_06.c</in>
+        <in>fig05_11.c</in>
+        <in>fig05_12.c</in>
+        <in>fig05_13.c</in>
+        <in>fig05_14.c</in>
+        <in>fig05_16.c</in>
+        <in>fig05_18.c</in>
+        <in>fig05_19.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter6">
+        <in>fig06_03.c</in>
+        <in>fig06_04.c</in>
+        <in>fig06_05.c</in>
+        <in>fig06_06.c</in>
+        <in>fig06_07.c</in>
+        <in>fig06_08.c</in>
+        <in>fig06_09.c</in>
+        <in>fig06_10.c</in>
+        <in>fig06_11.c</in>
+        <in>fig06_12.c</in>
+        <in>fig06_13.c</in>
+        <in>fig06_14.c</in>
+        <in>fig06_15.c</in>
+        <in>fig06_16.c</in>
+        <in>fig06_18.c</in>
+        <in>fig06_19.c</in>
+        <in>fig06_21.c</in>
+        <in>fig06_22.c</in>
+        <in>fig06_23.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter7">
+        <in>fig07_04.c</in>
+        <in>fig07_06.c</in>
+        <in>fig07_07.c</in>
+        <in>fig07_10.c</in>
+        <in>fig07_11.c</in>
+        <in>fig07_12.c</in>
+        <in>fig07_13.c</in>
+        <in>fig07_14.c</in>
+        <in>fig07_15.c</in>
+        <in>fig07_16.c</in>
+        <in>fig07_17.c</in>
+        <in>fig07_20.c</in>
+        <in>fig07_21.c</in>
+        <in>fig07_24.c</in>
+        <in>fig07_26.c</in>
+        <in>fig07_28.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter8">
+        <in>fig08_02.c</in>
+        <in>fig08_03.c</in>
+        <in>fig08_04.c</in>
+        <in>fig08_06.c</in>
+        <in>fig08_07.c</in>
+        <in>fig08_08.c</in>
+        <in>fig08_10.c</in>
+        <in>fig08_11.c</in>
+        <in>fig08_12.c</in>
+        <in>fig08_13.c</in>
+        <in>fig08_15.c</in>
+        <in>fig08_16.c</in>
+        <in>fig08_18.c</in>
+        <in>fig08_20.c</in>
+        <in>fig08_21.c</in>
+        <in>fig08_22.c</in>
+        <in>fig08_23.c</in>
+        <in>fig08_24.c</in>
+        <in>fig08_25.c</in>
+        <in>fig08_26.c</in>
+        <in>fig08_28.c</in>
+        <in>fig08_29.c</in>
+        <in>fig08_30.c</in>
+        <in>fig08_31.c</in>
+        <in>fig08_32.c</in>
+        <in>fig08_34.c</in>
+        <in>fig08_35.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+      <df name="Chapter9">
+        <in>fig09_02.c</in>
+        <in>fig09_04.c</in>
+        <in>fig09_05.c</in>
+        <in>fig09_07.c</in>
+        <in>fig09_08.c</in>
+        <in>fig09_09.c</in>
+        <in>fig09_11.c</in>
+        <in>fig09_12.c</in>
+        <in>fig09_14.c</in>
+        <in>fig09_15.c</in>
+        <in>fig09_18.c</in>
+        <in>fig09_19.c</in>
+        <in>fig09_20.c</in>
+        <in>fig09_21.c</in>
+        <in>fig09_22.c</in>
+        <in>fig09_23.c</in>
+        <in>fig09_24.c</in>
+        <in>main.c</in>
+        <in>main.h</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="重要文件"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile></projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>echo build</buildCommand>
+          <cleanCommand>echo clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="Chapter10/Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_02.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_03.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_05.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_07.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_09.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_13.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_16.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/fig10_18.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter10/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter11/fig11_02.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter11/fig11_06.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter11/fig11_07.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter11/fig11_10.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter11/fig11_11.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter11/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter11/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter2/fig02_05.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter2/fig02_13.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter2/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter2/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter3/fig03_06.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter3/fig03_08.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter3/fig03_10.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter3/fig03_13.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter3/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter3/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter4/fig04_01.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/fig04_02.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/fig04_06.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/fig04_07.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/fig04_09.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/fig04_11.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/fig04_12.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter4/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_03.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_04.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_06.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_11.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_12.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_13.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_14.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_16.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_18.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/fig05_19.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter5/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_03.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_04.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_05.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_06.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_07.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_08.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_09.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_10.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_11.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_12.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_13.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_14.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_15.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_16.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_18.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_19.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_21.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_22.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/fig06_23.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter6/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_04.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_06.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_07.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_10.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_11.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_12.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_13.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_14.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_15.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_16.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_17.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_20.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_21.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_24.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_26.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/fig07_28.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter7/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_02.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_03.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_04.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_06.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_07.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_08.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_10.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_11.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_12.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_13.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_15.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_16.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_18.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_20.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_21.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_22.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_23.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_24.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_25.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_26.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_28.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_29.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_30.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_31.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_32.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_34.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/fig08_35.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter8/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_02.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_04.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_05.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_07.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_08.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_09.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_11.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_12.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_14.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_15.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_18.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_19.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_20.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_21.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_22.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_23.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/fig09_24.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Chapter9/main.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,28 +1,36 @@
-/*
- * main.c
+/* 
+ * File:   main.c
+ * Author: gwguokeqiang
  *
- *  Created on: 2014ƒÍ8‘¬13»’
- *      Author: open
+ * Created on 2014Âπ¥12Êúà3Êó•, ‰∏ãÂçà1:29
  */
+
 #include <stdio.h>
-#include "main.h"
+#include <stdlib.h>
 
-int main( void )
-{
-	// link to fig11_02()
-	// fig11_02();
-
-	// link to fig11_06()
-	// fig11_06();
-
-	// link to fig11_07()
-	// fig11_07();
-
-	// link to fig11_10()
-	// fig11_10();
-
-	// link to fig11_11()
-	fig11_11();
-	return 0;
+/*
+ * 
+ */
+int main(int argc, char** argv ) {
+    
+    // linked to fig11_10
+    void fig11_10(); // define fig11_10()  function prototype
+    fig11_10();
+    
+/*
+    // linked to fig11_11
+    void fig11_11(); // define fig11_11() function prototype
+    fig11_11();
+    
+    //  linked to fig11_14
+    void fig11_14(); // define fig11_14() function prototype
+    fig11_14();
+*/
+    
+    // linked to fig11_15
+    void fig11_15(); // define fig11_15() function prototype
+    fig11_15();
+    
+    return (EXIT_SUCCESS);
 }
 
